@@ -22,7 +22,7 @@
 
 ## Welcome! Glad to see you here  
 
-The Dev Jokes WordPress plugin is a simple and fun way to add random programming-related jokes to your website. Currently in development, the plugin features a curated list of clean jokes, and generates a new joke each time the page is loaded.
+The Dev Jokes WordPress plugin is the first plugin developed by me, and provides a simple and fun way to add random programming-related jokes to your website.  Currently in development, the plugin features a curated list of clean jokes, and generates a new joke each time the page is loaded.
 
 While the source of the jokes is fixed at the moment, future versions of the plugin may allow for customization and user-submitted jokes. In the meantime, enjoy the current selection of jokes, which have been hand-picked for their humor and relevance to the programming community.
 
