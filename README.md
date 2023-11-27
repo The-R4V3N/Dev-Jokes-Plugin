@@ -20,7 +20,7 @@
 </a>  
 </div>
 
-![Lines of code](https://tokei.rs/b1/github/The-R4V3N/Dev-Jokes_Plugin)
+![Lines of code](https://tokei.rs/b1/github/The-R4V3N/Dev-Jokes-Plugin)
 
 ## Welcome! Glad to see you here  
 
