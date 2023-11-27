@@ -20,6 +20,8 @@
 </a>  
 </div>
 
+![Lines of code](https://tokei.rs/b1/github/The-R4V3N/Dev-Jokes_Plugin)
+
 ## Welcome! Glad to see you here  
 
 The Dev Jokes WordPress plugin is the first plugin developed by me, and provides a simple and fun way to add random programming-related jokes to your website.  Currently in development, the plugin features a curated list of clean jokes, and generates a new joke each time the page is loaded.
